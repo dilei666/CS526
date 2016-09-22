@@ -1,0 +1,3 @@
+d3.csv("/js/json/poverty/svg-d3-13-csv.csv", function(data) {
+    console.log(data);
+});
